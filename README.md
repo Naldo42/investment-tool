@@ -1,5 +1,5 @@
  
-# 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
+# 📊 Ferramenta de Controle de Investimentos
 
 Ferramenta prática desenvolvida em Excel para simulação de acúmulo de patrimônio, dividendos mensais e alocação estratégica de carteira em Fundos Imobiliários.
 
