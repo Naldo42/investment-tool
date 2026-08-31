@@ -32,6 +32,5 @@ O objetivo deste projeto é fornecer uma solução automatizada para auxiliar in
 ---
 
 ## 🖼️ Capturas de Tela
-*(Adicione aqui os prints da sua planilha salvos na pasta `/images`)*
 
 ![Dashboard do Simulador](images/dashboard.png)
