@@ -26,7 +26,7 @@ O objetivo deste projeto é fornecer uma solução automatizada para auxiliar in
 
 ## 📈 Tecnologias e Conceitos de Excel Aplicados
 - **Fórmulas Financeiras e Matemáticas:** Cálculo de montante com juros compostos (`VF`), multiplicações encadeadas e somas automáticas.
-- **Funções de Busca e Lógica:** `PROCV`, `SE` e formatação condicional.
+- **Funções de Busca e Lógica:** `PROCV` e formatação condicional.
 - **Design de Dashboards:** Remoção de linhas de grade e barra de fórmulas para criação de uma interface limpa e intuitiva.
 
 ---
